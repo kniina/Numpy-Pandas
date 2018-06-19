@@ -2,7 +2,9 @@
 # Heroes of Pymoli Data Analysis
 
 Trend 1: Males are the largest player demographic, constituting 81.15% of all Heroes of Pymoli players.
+
 Trend 2: The game is most popular amongst players in the 20-24 age group, consituting 45.20% of all players.
+
 Trend 3: The most popular items of the game are "Betrayal, Whisper of Grieving Widows" and "Arcade Gem."
 
 
